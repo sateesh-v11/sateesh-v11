@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Sateesh Vargagol  
 
-<!--
-**sateesh-v11/sateesh-v11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Software Developer** | 💻 **Frontend Specialist** | ⚡ **React.js Enthusiast**  
 
-Here are some ideas to get you started:
+I specialize in crafting high-performance, scalable web applications using modern frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** JavaScript (ES6+), HTML, CSS, Bootstrap  
+- **Frontend:** React.js, Redux, Tailwind CSS , familiar with Typescript 
+- **Version Control:** Git, GitHub  
+- **Tools & Others:** Webpack, npm, Figma  
+
+---
+
+## 📊 GitHub Stats
+
+![Sateesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sateesh-v11&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Let's Connect!
+
+💼 [LinkedIn](https://www.linkedin.com/in/sateesh-v-725604139)  
+📧 [Email](mailto:s.vargagol11@gmail.com)  
